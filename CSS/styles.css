@@ -94,7 +94,7 @@ font-size: 16px;
 line-height: 1.88;
 display: flex;
 letter-spacing: 0.06em;
-color: var(--basic-color-text);
+color: #FFFFFF;
 }
 .btn:hover,
 .btn:focus {
